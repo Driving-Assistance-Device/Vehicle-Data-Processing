@@ -1,6 +1,6 @@
 #include "IMU.h"
 
-/*
+
 Adafruit_MPU6050 mpu;
 
 IMUData imuData;
@@ -91,4 +91,3 @@ void IMU_run()
 
   imuData.valid = true;
 }
-*/

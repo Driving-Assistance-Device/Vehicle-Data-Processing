@@ -155,7 +155,16 @@
  src/def.h src/GPS.h \
  C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.h \
  .pio/libdeps/esp32-s3-devkitc-1-n16r8v/TinyGPS/TinyGPS.h src/IMU.h \
+ .pio/libdeps/esp32-s3-devkitc-1-n16r8v/Adafruit\ MPU6050/Adafruit_MPU6050.h \
+ .pio/libdeps/esp32-s3-devkitc-1-n16r8v/Adafruit\ BusIO/Adafruit_BusIO_Register.h \
+ .pio/libdeps/esp32-s3-devkitc-1-n16r8v/Adafruit\ BusIO/Adafruit_GenericDevice.h \
+ .pio/libdeps/esp32-s3-devkitc-1-n16r8v/Adafruit\ BusIO/Adafruit_I2CDevice.h \
  C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h \
  C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
  C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log.h \
- C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareI2C.h
+ C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareI2C.h \
+ .pio/libdeps/esp32-s3-devkitc-1-n16r8v/Adafruit\ BusIO/Adafruit_SPIDevice.h \
+ C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src/SPI.h \
+ C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
+ .pio/libdeps/esp32-s3-devkitc-1-n16r8v/Adafruit\ Unified\ Sensor/Adafruit_Sensor.h \
+ C:/Users/yuhkm/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h
